@@ -10,6 +10,7 @@ Simple demo application that helps with task tracking.
 - Adding tasks with task status
 - Removing tasks
 - Adding badges for tasks
+- Saving added tasks to local storage
 
 ## Technologies and libraries
 - React & Vite
