@@ -1,4 +1,4 @@
-# Task Track
+# Task Tracker
 
 ![TaskTrackMain](https://github.com/CiobanuMarius9/tasktrack/assets/106919851/00996797-fbde-41ab-86b6-4c2ca812ad5e)
 
